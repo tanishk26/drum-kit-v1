@@ -1,2 +1,2 @@
 Hosted on netlify:
-https://sleepy-goldwasser-8c90bc.netlify.app/
+https://drum-kit-challenge-v1.netlify.app/
